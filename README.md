@@ -15,7 +15,7 @@
 <br>
 
 <p align="center">
-  <img alt="Fixing Bugs (2)" src=".github\README 3.bmp" width="100%">
+  <img alt="Fixing Bugs (2)" src=".github\README3.bmp" width="100%">
 </p>
 
 ## 🚀 Technologies
